@@ -3,28 +3,23 @@
 ## Prepared For
 
 **Color Shot Studios**
-
-**Luxury Wedding Photography & Films**
+*Luxury Wedding Photography & Films*
 
 ---
 
 # Project Overview
 
-Thank you for the opportunity to create your website.
+Thank you for the opportunity to work with Color Shot Studios.
 
-The goal is to design and develop a premium, modern website that reflects the luxury identity of Color Shot Studios while showcasing your photography, films, and services in an elegant and engaging way.
-
-The website will be fully responsive, fast, and optimized for an excellent user experience across all devices.
+The goal is to create a modern, premium website that showcases your photography, films, and services with a smooth experience across all devices.
 
 ---
 
-# Proposed Website
-
-A premium **7–8 page** multi-page website including:
+# Website Includes
 
 * Home
-* About Us
-* Weddings / Portfolio
+* About
+* Portfolio
 * Films
 * Services
 * Testimonials
@@ -36,50 +31,44 @@ A premium **7–8 page** multi-page website including:
 # Features
 
 * Premium Modern Design
-* Fully Responsive (Mobile, Tablet & Desktop)
-* Smooth User Experience
-* Fast Loading Performance
+* Mobile Responsive
+* Fast Loading
 * SEO-Friendly Structure
 * Contact Form
 * WhatsApp Integration
 * Google Maps
-* Social Media Integration
-* Gallery & Portfolio Showcase
-* Basic On-Page SEO
-* Cross-Browser Compatibility
+* Social Media Links
+* Portfolio Gallery
 
 ---
 
-# Website Packages
+# Project Cost
 
-## Option 1 – Premium Website
+### Option 1 – Premium Website
 
-**₹18,000**
+**Total Cost: ₹18,000**
 
 Includes:
 
-* Premium UI Design
-* 7–8 Pages
+* 7–8 Page Website
+* Premium Design
 * Responsive Development
-* Basic Scroll Animations
+* Basic Animations
 * Contact Form
 * WhatsApp Integration
 * Portfolio Gallery
-* SEO-Friendly Structure
 
 ---
 
-## Option 2 – Premium Website + Premium Animations
+### Option 2 – Premium Website + Advanced Animations
 
-**₹24,000**
+**Total Cost: ₹24,000**
 
-Everything in Option 1, plus:
+Includes everything in Option 1, plus:
 
-* Advanced Premium Animations
-* Interactive Scroll Effects
+* Advanced Animations
 * Smooth Page Transitions
-* Enhanced User Experience
-* Luxury Visual Presentation
+* Interactive Effects
 
 ---
 
@@ -87,34 +76,33 @@ Everything in Option 1, plus:
 
 ### CMS (Content Management System)
 
-**Additional ₹8,000**
+**Additional Cost: ₹8,000**
 
-With CMS, you can easily manage:
-
-* Gallery Photos
-* Portfolio
-* Testimonials
-* Website Content
-* Services
-
-No coding knowledge required.
+Manage your gallery, portfolio, services, testimonials, and website content without any coding.
 
 ---
 
-# What's Included
+# Total Cost (If CMS is Included)
+
+* **Option 1 + CMS:** **₹26,000**
+* **Option 2 + CMS:** **₹32,000**
+
+---
+
+# Included
 
 * Premium UI/UX Design
 * Mobile Responsive Website
 * Performance Optimization
-* Deployment Assistance
+* Deployment
 * Source Code
-* Basic Technical Support After Delivery
+* Basic Support After Delivery
 
 ---
 
 ## Thank You
 
-We appreciate the opportunity to work with Color Shot Studios and look forward to creating a premium website that reflects the quality of your brand.
+We look forward to building a premium website for Color Shot Studios.
 
 **Regards,**
 
