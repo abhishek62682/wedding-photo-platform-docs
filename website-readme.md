@@ -46,7 +46,7 @@ The goal is to create a modern, premium website that showcases your photography,
 
 ### Option 1 – Premium Website
 
-**Total Cost: ₹18,000**
+**Total Cost: ₹20,000**
 
 Includes:
 
@@ -62,7 +62,7 @@ Includes:
 
 ### Option 2 – Premium Website + Advanced Animations
 
-**Total Cost: ₹24,000**
+**Total Cost: ₹30,000**
 
 Includes everything in Option 1, plus:
 
@@ -84,8 +84,8 @@ Manage your gallery, portfolio, services, testimonials, and website content with
 
 # Total Cost (If CMS is Included)
 
-* **Option 1 + CMS:** **₹26,000**
-* **Option 2 + CMS:** **₹32,000**
+* **Option 1 + CMS:** **₹28,000**
+* **Option 2 + CMS:** **₹38,000**
 
 ---
 
